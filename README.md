@@ -17,3 +17,8 @@ There are a couple things needed to contruct the query before passing it to the 
 the built-in function ```isBefore()``` and ```inAfter```.
 - After having all the nesscary data, I use an ```ArrayList``` to store my final result, then pass it to ```print()``` method to display out on the console.
 - The ```print()``` method prints the result list by ten food carts at a time, if the ```size()``` of the arrayList is greater than 10. Otherwise, it would display all the food carts.
+
+# Installation
+- Open your IDE and open Main.java
+- Add a reference to the Java project, selecting the *.jar file (json-20201115.jar).  
+- After referencing the jar file, you should be able to compile/run the application in your IDE.
